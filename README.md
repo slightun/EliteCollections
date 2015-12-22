@@ -2,41 +2,41 @@
 collect tools, open source projects...
 
 ## Searching
-### engine
-- [wikipedia](https://en.wikipedia.org/)
-- [google](https://www.google.com/?gws_rd=ssl)
-- [bing](http://global.bing.com/?FORM=HPCNEN&setmkt=en-us&setlang=en-us)
-- [aolsearch](http://www.aolsearch.com/)
-- [dogpile](www.dogpile.com)
-- [answers](www.answers.com)  The Most Trusted Place for Answering Life's Questions
-- [yahoo](https://www.yahoo.com/)
-- [baidu](https://www.baidu.com/)
-### code
-- [stackoverflow](http://stackoverflow.com/)
-- [codeproject](www.codeproject.com)
-- [github](https://github.com)
-### resouces
-- [isohunt](https://isohunt.to/) BitTorrent & P2P torrent search engine
+- engine
+ + [wikipedia](https://en.wikipedia.org/)
+ + [google](https://www.google.com/?gws_rd=ssl)
+ + [bing](http://global.bing.com/?FORM=HPCNEN&setmkt=en-us&setlang=en-us)
+ + [aolsearch](http://www.aolsearch.com/)
+ + [dogpile](www.dogpile.com)
+ + [answers](www.answers.com)  The Most Trusted Place for Answering Life's Questions
+ + [yahoo](https://www.yahoo.com/)
+ + [baidu](https://www.baidu.com/)
+- code
+ + [stackoverflow](http://stackoverflow.com/)
+ + [codeproject](www.codeproject.com)
+ + [github](https://github.com)
+- resouces
+ + [isohunt](https://isohunt.to/) BitTorrent & P2P torrent search engine
 
 ##Source code
-> ###Open source project
-- [mono](http://www.mono-project.com/) Cross platform, open source .NET framework
-> ####server
-- [nginx](http://nginx.org/en/) an HTTP and reverse proxy server, a mail proxy server, and a generic TCP proxy server,
-- [tengine](http://tengine.taobao.org/documentation_cn.html)
-- [kbengine](https://github.com/kbengine)
-> ####db
-- [mysql](https://github.com/mysql)
-- [redis](http://redis.io/)
-- [redis-dump](https://github.com/delano/redis-dump) Backup and restore your Redis data to and from JSON
-- [redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools) Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON /CSV
-> ###Company Developer
-- [google developer](https://developers.google.com/)
-- [microsoft developer](https://msdn.microsoft.com/zh-cn/default.aspx)
-- [msdn](https://msdn.microsoft.com/en-us/)
-- [TaoCode](http://code.taobao.org/)
-- [Github-Alibaba](https://github.com/alibaba?page=1)
-- [Github-NetEase](https://github.com/NetEase)
+- Company Developer
+ + [google developer](https://developers.google.com/)
+ + [microsoft developer](https://msdn.microsoft.com/zh-cn/default.aspx)
+ + [msdn](https://msdn.microsoft.com/en-us/)
+ + [TaoCode](http://code.taobao.org/)
+ + [Github-Alibaba](https://github.com/alibaba?page=1)
+ + [Github-NetEase](https://github.com/NetEase)
+- server
+ + [nginx](http://nginx.org/en/) an HTTP and reverse proxy server, a mail proxy server, and a generic TCP proxy server,
+ + [tengine](http://tengine.taobao.org/documentation_cn.html)
+ + [kbengine](https://github.com/kbengine)
+- db
+ + [mysql](https://github.com/mysql)
+ + [redis](http://redis.io/)
+ + [redis-dump](https://github.com/delano/redis-dump) Backup and restore your Redis data to and from JSON
+ + [redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools) Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON /CSV
+- project
+ + [mono](http://www.mono-project.com/) Cross platform, open source .NET framework
 
 ----------
 ##Courses
